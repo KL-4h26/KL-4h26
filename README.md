@@ -23,7 +23,7 @@
 <ul>
     <p>I love <strong>coding</strong>, and now I’m learning JS (I make a bunch of useless and weird projects in JS (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧).</p>
     <p>I’m currently working on my simple <a href="https://github.com/KL-4h26/PyCodeLanding">business card website</a>. Feel free to check out my other projects too!</p>
-    <p><strong>You</strong> can message me on <a href="https://t.me/JustPythonCode">Telegram</a> ヽ(★ω★)ノ</p>
+    <p><strong>You</strong> can message me on <a href="https://t.me/JustPythonLanguage">Telegram</a> ヽ(★ω★)ノ</p>
 </ul>
 <br>
 <p><b>Not finished</b></p>
