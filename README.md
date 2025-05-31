@@ -29,5 +29,5 @@
 <p><b>Not finished</b></p>
 
 <h1>📊 Statistics</h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KL-4h26&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KL-4h26&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 
