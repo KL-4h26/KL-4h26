@@ -29,4 +29,4 @@
 <p><b>Not finished</b></p>
 
 <h1>📊 Statistics</h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KL-4h26&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KL-4h26&layout=compact&theme=radical" alt="Top Languages" width="400"/>
