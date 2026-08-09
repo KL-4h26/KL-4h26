@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi! I'm - KL-4h26</h1>
-<p align="center"><b>Python</b> and <b>JavaScript</b> Developer</p>
+<p align="center"><b>Python</b> Developer</p>
 
 
 <p align="center">
@@ -14,7 +14,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <br>
     <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000" alt="flask" width="40" height="40"/>
-    <img src="https://i.ibb.co/Y4NkqvQ3/programing-15484303.png" alt="nodejs" width="30" height="30" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
