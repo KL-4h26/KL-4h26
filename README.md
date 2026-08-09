@@ -18,13 +18,11 @@
 <hr>
 <h1><img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="mysql" width="30" height="30"/> About me</h1>
 <ul>
-    <p>I'm a <b>Python</b> developer, working on small personal projects and doing <b>freelance</b> work.</p>
-    <p>I'm also quite comfortable with <b>JavaScript</b>, though I'm still learning and improving my <u>skills</u>.</p>
-    <p><strong>You</strong> can message me on → <a href="https://t.me/JustPythonLanguage">Telegram</a>← ヽ(★ω★)ノ</p>
+    <p>I am a Python developer specializing in backend development, automation, and other scripts.</p>
+    <p><strong>You</strong> can message me on → <a href="https://t.me/JustPythonLanguage">Telegram</a></p>
 </ul>
 <br>
 
 <h1>📊 Statistics</h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KL-4h26&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 <br>
-<p align="center"><u>(I'll be making a personal portfolio website soon.)<u></p>
